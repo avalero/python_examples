@@ -1,3 +1,14 @@
+#!/usr/bin/env python
+
+__author__ = "Alberto Valero"
+__copyright__ = "Copyright 2016, BeJob Santillana"
+__credits__ = ["Victor Gonzalez"]
+__license__ = "GPL"
+__version__ = "1.0"
+__maintainer__ = "Alberto Valero"
+__email__ = "alberto.valero@bq.com"
+__status__ = "Production"
+
 import pickle
 from pathlib import Path
 
